@@ -1,0 +1,17 @@
+Miércoles 29 de Septiembre de 2021
+
+Algoritmo para obtener el promedio de 5 números
+Un promedio se obtiene sumando todos los datos y 
+dividiendo el resultado entre el numero de datos
+Ejemplo de promedio:
+promedio = (3 + 7 + 4) / 3 = 4.666
+
+1-inicio 
+2-Primero defines tus numero tú eliges tus numero pero tiene que ser 5 números pero diferentes  Por Ejemplo (5,7,8,9,51
+3-Ya que lo tengas los vas a sumar todos y luego los vas a dividir por el número 5  
+Ejemplo: 5+7+8+9+1 / 5 
+4-Y despues pones tu respuesta 
+R=6
+5- Fin
+
+// (5+7+8+9+1)/5=6
